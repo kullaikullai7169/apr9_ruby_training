@@ -1,8 +1,13 @@
-i = 5
-num = 15
-while i < num  do
-   puts("Inside the loop i = #{i}" )
-   i +=1
-end
-
-
+var = 10
+puts var 
+puts "#{var}"
+puts "the varable value is #{var}"
+str = "swamy"
+puts str
+puts "the string name is: #{str}"
+str2 = "hii kullai"
+puts str+str2
+puts "the string name is :#{str}"
+puts str [4]
+puts str[0]
+puts "This is Ruby Tutorial" + " from " + " GM."   
